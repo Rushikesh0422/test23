@@ -1,4 +1,6 @@
 let n=10;
-if(num%3==0){
-console.log("enen")
+if(num%2==0){
+console.log("even")
+}else{
+  console.log("odd")
 }
